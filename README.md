@@ -11,6 +11,7 @@
 
 ## re
 
++ [UltraEdit](http://pan.baidu.com/s/1c11AhzE)密码:`dztd`
 + [binary ninja](https://binary.ninja/demo/)
 + [IDA pro 7.0](https://pan.baidu.com/s/1qYKDyCc)密码:`wdst`
 + [dnSpy](https://github.com/0xd4d/dnSpy/releases)
