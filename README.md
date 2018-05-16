@@ -11,12 +11,17 @@
 
 ## re
 
-+ [UltraEdit](http://pan.baidu.com/s/1c11AhzE)密码:`dztd`
 + [binary ninja](https://binary.ninja/demo/)
 + [IDA pro 7.0](https://pan.baidu.com/s/1qYKDyCc)密码:`wdst`
 + [dnSpy](https://github.com/0xd4d/dnSpy/releases)
 + [JEB](https://pan.baidu.com/s/1bJdWse)密码:`ncr3`
 + [UPXShell](https://pan.baidu.com/s/1mihRleK)
+
+## editor
+
++ [UltraEdit](http://pan.baidu.com/s/1c11AhzE)密码:`dztd`
++ [UltraCompare](https://www.ultraedit.com/products/ultracompare/)
+<!--+ [UE系列注册机](http://www.jb51.net/softjc/571231.html)-->
 
 ## MISC
 
@@ -26,3 +31,12 @@
 + [StegSolve](http://www.caesum.com/handbook/Stegsolve.jar)
 + [JPEGsnoop](https://github.com/ImpulseAdventure/JPEGsnoop/releases)
 + [Stegdetect]()`apt-get install stegdetect`
+
+## A&D
+
++ [RouterScan](http://pan.baidu.com/s/1skuO20d)密码:`qnpe`
++ [httpscan](https://github.com/zer0h/httpscan)
++ [nmap](https://nmap.org/)
++ [seay](http://pan.baidu.com/s/1i3Jw2uL)
++ [RIPS](http://rips-scanner.sourceforge.net/)
++ [Fortify SCA](https://pan.baidu.com/s/1c2wFCdE)远古版本
