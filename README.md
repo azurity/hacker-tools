@@ -31,6 +31,11 @@
 + [StegSolve](http://www.caesum.com/handbook/Stegsolve.jar)
 + [JPEGsnoop](https://github.com/ImpulseAdventure/JPEGsnoop/releases)
 + [Stegdetect]()`apt-get install stegdetect`
++ [常见隐写工具下载列表](http://www.wowarea.com/english/help/stega.htm)
++ [常见隐写工具](https://wenku.baidu.com/view/08b2d6884028915f804dc2d6.html)见ppt的15页
++ [snow隐写](http://www.darkside.com.au/snow/)
++ [wbStego隐写](http://wbstego.wbailer.com/)
++ [ByteShelter I](http://www.winsite.com/authors/mazzoft+nda/1/)
 
 ## A&D
 
